@@ -1,2 +1,2 @@
-# collision-algorithm
-it is a block game .
+# p5.play-boilerplate
+Boiler plate for p5.play
